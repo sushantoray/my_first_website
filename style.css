@@ -1,0 +1,12 @@
+div.mydiv{
+    display: flex;
+
+}
+div.mydiv div.mydiv1{
+    width: 50%;
+    background-color: aqua;
+}
+div.mydiv div.mydiv2{
+    width: 50%;
+    background-color: blueviolet;
+}
